@@ -1,2 +1,2 @@
 # MyDAMD
-Repository of my dmain adaption md note
+The repository of my dmain adaption md note.
